@@ -1,15 +1,6 @@
-var app = {};
+﻿var app = {};
 
-/*
- * appName 暂时没用
- *
- * headerTitle 如果是汉字最多是 8 个汉字，
- *   如果是英文字母或者英文和中文混合，
- *   还没有测试多少个合适
- * 
- * headerLogo 图片是 40 * 40 的图片
- *
- */
+
 
 app.config = {
   'appName': '管理后台',
